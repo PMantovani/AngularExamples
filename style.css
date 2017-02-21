@@ -1,0 +1,12 @@
+* {
+    font-family: 'Lato';
+}
+
+.main {
+    background-color: #a0a0a0;
+}
+
+.sidebar {
+    background-color: #fe1010;
+    min-width: 300px;
+}
